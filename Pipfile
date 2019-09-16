@@ -29,4 +29,4 @@ sentry-sdk = "==0.11.1"
 django-anymail = {extras = ["mailgun"],version = "==6.1.0"}
 
 [requires]
-python_version = "3.7"
+python_version = "3.6"
